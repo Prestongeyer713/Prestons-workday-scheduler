@@ -7,5 +7,4 @@ unfortunatly I wasnt able to get it to display the saved data on the main page b
 
 below is a screen shot of my application. all the tabs are greyed out because i took the screen shot past 5pm.
 
-[work day scheduler.pdf](https://github.com/Prestongeyer713/free-password-generator/files/5861528/work.day.scheduler.pdf)
-[screencapture-file-C-Users-Prest-Desktop-work-day-scheduler-index-html-2021-01-23-22_23_11.pdf]
+![screencapture-prestongeyer713-github-io-Prestons-workday-scheduler-work-day-scheduler-index-html-2021-01-23-22_35_39 (1)](https://user-images.githubusercontent.com/75324665/105620460-6b027700-5dcb-11eb-9ca3-567478af5c7b.png)
